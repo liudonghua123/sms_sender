@@ -1,0 +1,3 @@
+pandas
+xlrd >= 0.9.0
+git+https://github.com/liudonghua123/dysms_python.git
